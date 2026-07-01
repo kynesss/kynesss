@@ -26,6 +26,7 @@ Fullstack flashcard learning app built with ASP.NET Core, React, TypeScript and 
 
 ## Other projects
 
+- [Signalio](https://github.com/kynesss/Signalio) - Real-time chat app built with Blazor WebAssembly, ASP.NET Core, SignalR and JWT authentication.
 - [TaskFlow](https://github.com/kynesss/TaskFlow) - ASP.NET Core MVC task management app using Clean Architecture, Identity, MediatR and EF Core.
 - [TextSense](https://github.com/kynesss/TextSense) - Blazor Server app that generates text with OpenAI and analyzes sentiment and key phrases with Azure AI Language.
 - [Posts-App](https://github.com/kynesss/Posts-App) - small fullstack posts/comments app with ASP.NET Core, React, PostgreSQL and Docker Compose.
